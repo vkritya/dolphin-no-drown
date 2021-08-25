@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:dolphin] run data merge entity @s {Air:4800, Moistness:2400}
